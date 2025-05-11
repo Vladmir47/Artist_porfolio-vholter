@@ -1,0 +1,76 @@
+[
+    {
+      "title": "realized",
+      "cover": "assets/images/realized.jpg",
+      "audioPreview": "assets/audio/realized.mp3",
+      "videoPreview":"assets/video/realized.mp4",
+      "links": {
+        "Spotify": "https://open.spotify.com/track/2kKPCR7PPZyFmAEiqul8sR?si=c8d46c4469ce4405",
+        "Apple Music": "https://music.apple.com/us/album/realized-single/1783362383",
+        "Audiomack": "https://audiomack.com/vholterera/song/realized",
+        "YouTube": "https://music.youtube.com/watch?v=f2iZnLOjJW0&si=_7CeyPJhx0kqXaz8"
+      }
+    },
+    {
+      "title": "Unsaid feelings",
+      "cover": "assets/images/unsaid-feelings.jpg",
+      "audioPreview": "assets/audio/unsaid-feelings.mp3",
+      "videoPreview":"assets/video/unsaid-feelings.mp4",
+      "links": {
+        "Spotify": "https://open.spotify.com/track/0p00Ke0NrKh2WLLrIOELhL?si=5954a07c643e4262",
+        "Apple Music":"https://music.apple.com/us/album/unsaid-feelings-single/1780645621",
+        "Audiomack": "https://audiomack.com/vholterera/song/unsaid-feelings",
+        "YouTube": "https://music.youtube.com/watch?v=qr8WZ12MhoE&si=QBGw_R5RG88oqYRy"
+      }
+    },
+    {
+        "title": "Get sum money",
+        "cover": "assets/images/get-sum-money.jpg",
+        "audioPreview": "assets/audio/get-sum-money.mp3",
+        "videoPreview":"assets/video/get-sum-money.mp4",
+        "links": {
+          "Spotify": "https://open.spotify.com/track/4kKUdKsqAp9WxsybNgRbgj?si=73017c0e91764ed7",
+          "Apple Music": "https://music.apple.com/us/album/get-sum-money-feat-deo-savage-single/1727324284",
+          "Audiomack": "https://audiomack.com/vholterera/song/get-sum-money",
+          "YouTube": "https://music.youtube.com/watch?v=HlD9R8xpB7E&si=D-5PVCjBBfreTFCz"
+        }
+      },
+      {
+        "title": "lost",
+        "cover": "assets/images/lost.jpg",
+        "audioPreview": "assets/audio/lost.mp3",
+        "videoPreview":"assets/video/lost.mp4",
+        "links": {
+          "Spotify": "https://open.spotify.com/track/2v59Gud4mUBPjWyfLB24ze?si=33989921168a4490",
+          "Apple Music":"https://music.apple.com/us/song/lost/1807038746",
+          "Audiomack": "https://audiomack.com/vholterera/song/lost",
+          "YouTube": "https://music.youtube.com/watch?v=aieebxK7G5s&si=CzHxnlgQv40mMdnE"
+        }
+      }
+      ,
+      {
+        "title": "Mad",
+        "cover": "assets/images/mad.jpg",
+        "audioPreview": "assets/audio/mad.mp3",
+        "videoPreview":"assets/video/mad.mp4",
+        "links": {
+          "Spotify": "https://open.spotify.com/album/2PcbEqUXnxSyZci5O8eROh?si=P1iHP0lTTW6WRIi-sjwJyw",
+          "Apple Music":"https://music.apple.com/us/song/mad-feat-gill-gad-deo-savage/1779028019",
+          "Audiomack": "https://audiomack.com/vholterera/song/mad",
+          "YouTube": "https://music.youtube.com/watch?v=UI9LF-pxodk&si=zSV6NEWPgfRpve1s"
+        }
+      },
+      {
+        "title": "Aimless",
+        "cover": "assets/images/aimless.jpg",
+        "audioPreview": "assets/audio/aimless.mp3",
+        "videoPreview":"assets/video/aimless.mp4",
+        "links": {
+          "Spotify": "https://open.spotify.com/track/6R2EgPS4fyVr2AUKvbgMeA?si=52488811e1c14dc1",
+          "Apple Music":"https://music.apple.com/us/song/aimless-feat-vholter/1765093912",
+          "Audiomack": "https://audiomack.com/herison-wellz/song/aimless",
+          "YouTube": "https://music.youtube.com/watch?v=xl-wYMjOugc&si=lWHHTVK6ishmk12p"
+        }
+      }
+  ]
+  

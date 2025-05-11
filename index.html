@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>V.H.O.L.T.E.R's - Music Portfolio</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<canvas id="waveCanvas"></canvas>
+  <header>
+    <div class="container">
+      <h1 class="artist-name">VHOLTER</h1>
+      <p class="tagline">Discover my music, stream it anywhere</p>
+    </div>
+    <label class="theme-switch">
+        <input type="checkbox" id="themeToggle">
+        <span class="slider">
+          <span class="icon sun">☀️</span>
+          <span class="icon moon">🌙</span>
+        </span>
+      </label>
+  </header>
+
+  <main class="container">
+    <section class="intro parallax-layer" data-speed="0.6">
+      <h2>Featured Tracks</h2>
+      <div id="track-list" class="track-list">
+        <!-- Tracks will be injected here by JS -->
+      </div>
+    </section>
+    <section class="contact parallax-layer"  data-speed="1.0">
+        <h2>Contact</h2>
+        <p>Want to collaborate or book a performance? Email me at <a href="mailto:vholter.era@gmail.com">vholter.era@gmail.com</a></p>
+      </section>
+      
+  </main>
+
+  <footer>
+    <div class="container parallax-layer" data-speed="1.3">
+      <p>© 2025 V.H.O.L.T.E.R . All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
